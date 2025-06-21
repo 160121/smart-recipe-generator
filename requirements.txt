@@ -1,0 +1,10 @@
+easyocr
+streamlit
+langchain
+langgraph
+python-dotenv
+pandas
+requests
+openai
+reportlab
+google-generativeai
